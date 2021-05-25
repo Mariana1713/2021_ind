@@ -1,0 +1,2 @@
+C:\Users\ASUS\Desktop\3 kf,\PersonList\PersonList\obj\Debug\PersonList.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\3 kf,\PersonList\PersonList\obj\Debug\PersonList.csproj.CoreCompileInputs.cache
